@@ -1,0 +1,6 @@
+{
+  "name": "متابع الايرادات",
+  "description": "برنامج لمتابعة ايرادات الركشات أسبوعياً والدكان شهرياً مع تقسيم الإيرادات على 9 أسر وإدارة الخصومات والتقارير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
